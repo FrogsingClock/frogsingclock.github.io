@@ -1,0 +1,14 @@
+# Local reference notes
+/Others_Website.md
+/Homepage_Setup_Guide.md
+/Zhuowen_profile.md
+/others_website_code/
+
+# Generated output and operating system files
+_site/
+.DS_Store
+Thumbs.db
+
+# Local asset backups
+/images/Zhuowen_photo_backup*.jpg
+/data/cpg_dog.mp4
